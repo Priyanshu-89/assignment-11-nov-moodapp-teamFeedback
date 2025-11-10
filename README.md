@@ -40,7 +40,7 @@ The app displays a list of team members, each with:
 - Their **name**
 - A **feedback counter**
 - A **"Give Feedback"** button to increase their feedback count
-
+Live Link: https://venerable-custard-cb5f98.netlify.app/
 At the bottom, a **"Reset All Feedback"** button resets all feedback counts to zero.  
 The layout is clean and centered, and each card has a simple, user-friendly design.
 
